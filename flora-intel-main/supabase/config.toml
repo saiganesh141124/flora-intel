@@ -1,0 +1,4 @@
+project_id = "doavahxuxvjpvtpfnpzu"
+
+[functions.analyze-plant]
+verify_jwt = true
